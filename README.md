@@ -48,7 +48,7 @@ Run the Application:
 This tool is designed strictly for educational purposes, defensive security auditing, and network management. Authorized security professionals should only execute scanning queries against target hosts where they have explicit, documented administrative permission. Unsanctioned network probing may violate local laws or trigger active firewall/IDS defensive protocols. Use responsibly.
                                 
                                                       ---
-  ![Application Preview](screenshot.png)
+  ![Application Preview](Screenshot.png)
 
 
 
